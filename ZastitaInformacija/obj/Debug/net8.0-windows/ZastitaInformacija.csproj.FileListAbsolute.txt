@@ -1,0 +1,16 @@
+C:\Users\Vrba\Desktop\ZastitaInformacija\ZastitaInformacija\bin\Debug\net8.0-windows\ZastitaInformacija.exe
+C:\Users\Vrba\Desktop\ZastitaInformacija\ZastitaInformacija\bin\Debug\net8.0-windows\ZastitaInformacija.deps.json
+C:\Users\Vrba\Desktop\ZastitaInformacija\ZastitaInformacija\bin\Debug\net8.0-windows\ZastitaInformacija.runtimeconfig.json
+C:\Users\Vrba\Desktop\ZastitaInformacija\ZastitaInformacija\bin\Debug\net8.0-windows\ZastitaInformacija.dll
+C:\Users\Vrba\Desktop\ZastitaInformacija\ZastitaInformacija\bin\Debug\net8.0-windows\ZastitaInformacija.pdb
+C:\Users\Vrba\Desktop\ZastitaInformacija\ZastitaInformacija\obj\Debug\net8.0-windows\ZastitaInformacija.Form1.resources
+C:\Users\Vrba\Desktop\ZastitaInformacija\ZastitaInformacija\obj\Debug\net8.0-windows\ZastitaInformacija.csproj.GenerateResource.cache
+C:\Users\Vrba\Desktop\ZastitaInformacija\ZastitaInformacija\obj\Debug\net8.0-windows\ZastitaInformacija.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vrba\Desktop\ZastitaInformacija\ZastitaInformacija\obj\Debug\net8.0-windows\ZastitaInformacija.AssemblyInfoInputs.cache
+C:\Users\Vrba\Desktop\ZastitaInformacija\ZastitaInformacija\obj\Debug\net8.0-windows\ZastitaInformacija.AssemblyInfo.cs
+C:\Users\Vrba\Desktop\ZastitaInformacija\ZastitaInformacija\obj\Debug\net8.0-windows\ZastitaInformacija.csproj.CoreCompileInputs.cache
+C:\Users\Vrba\Desktop\ZastitaInformacija\ZastitaInformacija\obj\Debug\net8.0-windows\ZastitaInformacija.dll
+C:\Users\Vrba\Desktop\ZastitaInformacija\ZastitaInformacija\obj\Debug\net8.0-windows\refint\ZastitaInformacija.dll
+C:\Users\Vrba\Desktop\ZastitaInformacija\ZastitaInformacija\obj\Debug\net8.0-windows\ZastitaInformacija.pdb
+C:\Users\Vrba\Desktop\ZastitaInformacija\ZastitaInformacija\obj\Debug\net8.0-windows\ZastitaInformacija.genruntimeconfig.cache
+C:\Users\Vrba\Desktop\ZastitaInformacija\ZastitaInformacija\obj\Debug\net8.0-windows\ref\ZastitaInformacija.dll
