@@ -14,3 +14,5 @@ C:\Users\Vrba\Desktop\ZastitaInformacija\ZastitaInformacija\obj\Debug\net8.0-win
 C:\Users\Vrba\Desktop\ZastitaInformacija\ZastitaInformacija\obj\Debug\net8.0-windows\ZastitaInformacija.pdb
 C:\Users\Vrba\Desktop\ZastitaInformacija\ZastitaInformacija\obj\Debug\net8.0-windows\ZastitaInformacija.genruntimeconfig.cache
 C:\Users\Vrba\Desktop\ZastitaInformacija\ZastitaInformacija\obj\Debug\net8.0-windows\ref\ZastitaInformacija.dll
+C:\Users\Vrba\Desktop\ZastitaInformacija\ZastitaInformacija\obj\Debug\net8.0-windows\ZastitaInformacija.sourcelink.json
+C:\Users\Vrba\Desktop\ZastitaInformacija\ZastitaInformacija\obj\Debug\net8.0-windows\ZastitaInformacija.Form2.resources

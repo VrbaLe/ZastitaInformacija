@@ -1,3 +1,4 @@
+using System.Data;
 using System.Security.Cryptography;
 using ZastitaInformacija.Algoritmi;
 
@@ -49,7 +50,7 @@ namespace ZastitaInformacija
             //string filestring = Binary.UintArrayToString(fileUint);
             //string filestring2= null;
             byte[] processedBytes = null;
-
+            string tekst = File.ReadAllText(filePath);
             if (checkBox1.Checked)
             {
                 if (radioButton1.Checked)
@@ -84,7 +85,7 @@ namespace ZastitaInformacija
                 }
                 else if (radioButton2.Checked)
                 {
-                    processedBytes = leaCipher.EncryptBytes(fileBytes);
+                    processedBytes = leaCipher.DecryptBytes(fileBytes);
                 }
                 else
                 {
@@ -215,5 +216,13 @@ namespace ZastitaInformacija
                 MessageBox.Show($"Greška prilikom obrade fajla: {ex.Message}");
             }
         }
+
+        private void button6_Click_1(object sender, EventArgs e)
+        {
+            Form2 novaForma = new Form2();
+            novaForma.Show();
+        }
+
+
     }
 }

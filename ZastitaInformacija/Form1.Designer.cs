@@ -56,6 +56,7 @@
             radioButton4 = new RadioButton();
             radioButton3 = new RadioButton();
             groupBox5 = new GroupBox();
+            button6 = new Button();
             groupBox1.SuspendLayout();
             groupBox2.SuspendLayout();
             groupBox3.SuspendLayout();
@@ -149,9 +150,9 @@
             groupBox3.Controls.Add(label1);
             groupBox3.Controls.Add(radioButton2);
             groupBox3.Controls.Add(radioButton1);
-            groupBox3.Location = new Point(23, 246);
+            groupBox3.Location = new Point(23, 217);
             groupBox3.Name = "groupBox3";
-            groupBox3.Size = new Size(385, 270);
+            groupBox3.Size = new Size(385, 240);
             groupBox3.TabIndex = 2;
             groupBox3.TabStop = false;
             groupBox3.Text = "Klasicno kodiranje";
@@ -243,7 +244,7 @@
             groupBox4.Controls.Add(txtTargetDir);
             groupBox4.Controls.Add(radioButton4);
             groupBox4.Controls.Add(radioButton3);
-            groupBox4.Location = new Point(508, 234);
+            groupBox4.Location = new Point(502, 217);
             groupBox4.Name = "groupBox4";
             groupBox4.Size = new Size(484, 356);
             groupBox4.TabIndex = 5;
@@ -338,18 +339,29 @@
             // 
             groupBox5.Controls.Add(txtLea);
             groupBox5.Controls.Add(button4);
-            groupBox5.Location = new Point(447, 98);
+            groupBox5.Location = new Point(412, 98);
             groupBox5.Name = "groupBox5";
             groupBox5.Size = new Size(355, 113);
             groupBox5.TabIndex = 6;
             groupBox5.TabStop = false;
             groupBox5.Text = "Generisite kljuc za LEA";
             // 
+            // button6
+            // 
+            button6.Location = new Point(429, 28);
+            button6.Name = "button6";
+            button6.Size = new Size(119, 46);
+            button6.TabIndex = 7;
+            button6.Text = "Socket";
+            button6.UseVisualStyleBackColor = true;
+            button6.Click += button6_Click_1;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1030, 602);
+            Controls.Add(button6);
             Controls.Add(groupBox5);
             Controls.Add(groupBox4);
             Controls.Add(groupBox3);
@@ -400,5 +412,6 @@
         private Button btnStopWatching;
         private Button btnStartWatching;
         private Button button5;
+        private Button button6;
     }
 }
